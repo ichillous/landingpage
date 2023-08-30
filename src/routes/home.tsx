@@ -6,7 +6,7 @@ export default function HomePage() {
   return (
     <Layout>
       <Hero
-        title="Husan App Coming soon"
+        title="Husna App Coming soon"
         content="Sign up for our newsletter to get early beta access."
         illustration={<HeroIllustration />}
       />
