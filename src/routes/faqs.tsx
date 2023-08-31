@@ -16,8 +16,9 @@ export default function FaqsPage() {
             </summary>
             <p>
               Husna is a free HTML/CSS landing page designed and developed by{' '}
-              <a href="https://twitter.com/pacovitiello">@pacovitiello</a> and{' '}
-              <a href="https://twitter.com/DavidePacilio">@DavidePacilio</a>!
+              <a href="https://www.linkedin.com/in/isiah-chillous/">
+                Isiah Chillous
+              </a>
             </p>
             <p>
               Husna is suitable for all kind of startups, it's easily
@@ -45,7 +46,7 @@ export default function FaqsPage() {
             <p>
               Yes, you can! Husna is an open source project, and you can
               contribute to it on{' '}
-              <a href="https://github.com/lukemcdonald/husna-react">GitHub</a>.
+              <a href="https://github.com/ichillous/landingpage">GitHub</a>.
             </p>
           </details>
         </ArticleContent>

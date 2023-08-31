@@ -2,16 +2,16 @@
   "version": "2.0.0",
   "name": "husna-react",
   "description": "React version of Husna",
-  "author": "Luke McDonald (https://lukemcdonald.com/)",
-  "homepage": "https://lukemcdonald.github.io/husna-react",
+  "author": "Isiah Chillous (https://isiahchillous.com/)",
+  "homepage": "https://ichillous.github.io/husna-react",
   "keywords": [],
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lukemcdonald/husna-react.git"
+    "url": "https://github.com/ichillous/husna-react.git"
   },
   "bugs": {
-    "url": "https://github.com/lukemcdonald/husna-react/issues"
+    "url": "https://github.com/ichillous/husna-react/issues"
   },
   "scripts": {
     "build": "NODE_ENV=production run-s build:*",
